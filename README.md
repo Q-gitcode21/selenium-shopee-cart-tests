@@ -42,6 +42,6 @@ options.add_argument(r"--user-data-dir=C:\Users\<Tên_user>\AppData\Local\Google
 options.add_argument(r"--profile-directory=Profile 2")
 
 
-3.Chạy test
+3. Chạy test
 
 pytest -v test_cart.py
